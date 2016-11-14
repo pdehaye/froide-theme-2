@@ -1,0 +1,31 @@
+pip==8.1.2
+Django>1.10,<1.11
+Markdown==2.3.1
+celery==3.1.23
+django-celery==3.1.1
+django-celery-email==1.1.4
+django-haystack==2.5
+django-taggit==0.18.1
+#lxml==3.2.4
+#psycopg2==2.5.1
+pytz==2016.4
+requests==2.9.1
+django-floppyforms==1.6.2
+-e git://github.com/stephenmcd/django-overextends.git@master#egg=django-overextends
+python-magic==0.4.6
+django-tastypie==0.13.3
+python-mimeparse>=0.1.4
+django-tastypie-swagger==0.1.1
+unicodecsv==0.14.1
+django-configurations==1.0
+django-storages==1.4.1
+dj-database-url==0.4.1
+django-cache-url==1.0.0
+gunicorn==18.0
+dj-static>0.0.5
+boto>2.32
+honcho==0.5.0
+django-compressor==2.0
+-e git://github.com/pdehaye/froide.git@master#egg=froide
+django-contrib-comments==1.7.0
+psycopg2
